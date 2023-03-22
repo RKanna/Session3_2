@@ -1,0 +1,66 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: azure;
+}
+.container {
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 130px;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1 {
+    width: 30%;
+    margin: auto;
+    border: 1px solid lightpink;
+    border-radius: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.box1:hover{
+    background-color: lightpink;
+}
+a {
+    text-decoration: none;
+}
+.box2 {
+    width: 30%;
+    margin: auto;
+    border: 1px solid lightpink;
+    border-radius: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.box2:hover{
+    background-color: lightpink;
+}
+h1 {
+    color: darkmagenta;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+p {
+    color: blueviolet;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: justify;
+}
+.box3 {
+    width: 30%;
+    margin: auto;
+    border: 1px solid lightpink;
+    border-radius: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.box3:hover{
+    background-color: lightpink;
+}
+h5 {
+    padding-left: 25px;
+    color: brown;
+}
